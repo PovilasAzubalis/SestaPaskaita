@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_1PirmaUzduotis_FilmuVertinimas</RootNamespace>
+    <RootNamespace>_1_PirmaUzduotis_FilmuVertinimas</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
