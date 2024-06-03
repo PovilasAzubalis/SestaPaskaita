@@ -55,9 +55,9 @@ namespace _1_PirmaUzduotis_FilmuVertinimas.Services
 
                 }
 
-                public static void Meniu(ref int inputmeniu, ref FilmuSarasas filmuSarasas)
+                public static void Meniu(ref int inputMeniu, ref FilmuSarasas filmuSarasas)
                 {
-                        switch (inputmeniu)
+                        switch (inputMeniu)
                         {
                                 case 0:
                                         Environment.Exit(0);
@@ -79,6 +79,8 @@ namespace _1_PirmaUzduotis_FilmuVertinimas.Services
                                         break;
                                 case 6:
                                         filmuSarasas.IstrintiPagalPavadinima();
+                                        break;
+                                default:
                                         break;
                         }
                 }
